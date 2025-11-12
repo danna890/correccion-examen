@@ -31,8 +31,8 @@ CampusPizza/
 1. **Abrir MySQL Workbench** o el cliente de tu preferencia.  
 2. Crear la base de datos:
    ```sql
-   CREATE DATABASE campus_pizza;
-   USE campus_pizza;
+   CREATE DATABASE pizzeria;
+   USE pizzeria;
 
 ## Modelo de Base de Datos (Resumen)
 
