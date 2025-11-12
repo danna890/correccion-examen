@@ -7,8 +7,9 @@ El sistema permite registrar pizzas, panzarottis, bebidas, postres, adiciones y 
 
 El objetivo principal es centralizar la información y facilitar consultas sobre ventas, productos más vendidos y comportamiento de los clientes.
 
-## 🧩 Estructura del Repositorio
+## Estructura del Repositorio
 
+```
 CampusPizza/
 │
 ├── codigo.sql                      # Contiene toda la estructura (creación de tablas, claves primarias y foráneas)
@@ -16,16 +17,16 @@ CampusPizza/
 ├── consultas.sql                   # Contiene las 20 consultas SQL del examen
 ├── drawSQL-image-export-2025-11-12.png  # Imagen del modelo relacional exportado desde drawSQL
 └── README.md                       # Documento explicativo con instrucciones y descripción del proyecto
+```
 
-
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Gestor de Base de Datos:** MySQL 8.0  
 - **Lenguaje de Consultas:** SQL  
 - **Herramientas de Diseño:** MySQL Workbench / drawSQL / StarUML  
 - **Autor:** Danna Valentina Monroy León  
 
-## ⚙️ Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 1. **Abrir MySQL Workbench** o el cliente de tu preferencia.  
 2. Crear la base de datos:
