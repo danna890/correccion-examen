@@ -38,19 +38,20 @@ CampusPizza/
 
 **Entidades principales:**
 
--clientes
--roductos
--categorias
--adiciones
--combos
--combo_producto
--pedidos
--pedido_producto
--pedido_adicion
+1. clientes
+2. roductos
+3. categorias
+4. adiciones
+5. combos
+6. combo_producto
+7. pedidos
+8. pedido_producto
+9. pedido_adicion
 
 **Relaciones clave:**
--Un cliente puede tener muchos pedidos.
--Un pedido puede contener varios productos y adiciones.
--Un combo puede incluir múltiples productos.
--Cada producto pertenece a una categoría.
+
+- Un cliente puede tener muchos pedidos.
+- Un pedido puede contener varios productos y adiciones.
+- Un combo puede incluir múltiples productos.
+- Cada producto pertenece a una categoría.
 
